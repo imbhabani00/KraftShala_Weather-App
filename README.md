@@ -22,7 +22,7 @@ http://localhost:5173/
 
 # CREATED BY : BHABANISHANKAR MISHRA.
 
-https://github.com/imbhabani00/KraftShala_Weather-App/assets/111756939/9c5f097a-5a91-4585-98d0-44080104f1bd
 
+![Screenshot 2024-06-12 at 12 22 40 AM](https://github.com/imbhabani00/KraftShala_Weather-App/assets/111756939/3803196f-abb7-4d94-9dbd-e0eb2f00b32b)
 
 
