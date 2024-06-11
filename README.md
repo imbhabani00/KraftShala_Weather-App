@@ -17,3 +17,11 @@ git clone <repository-url>
 cd weather-app
 npm install
 npm run dev
+
+http://localhost:5173/
+
+![Screenshot 2024-06-12 at 12 22 40 AM](https://github.com/imbhabani00/KraftShala_Weather-App/assets/111756939/c26b74b5-ec09-4065-b6bb-d6eb581aed64)
+
+# CREATED BY : BHABANISHANKAR MISHRA.
+
+
