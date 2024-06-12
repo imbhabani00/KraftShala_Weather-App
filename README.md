@@ -22,6 +22,8 @@ http://localhost:5173/
 
 # github -- https://github.com/imbhabani00/KraftShala_Weather-App.git
 # deployed -- https://kraft-shala-weather-app.vercel.app/
+# video -- https://drive.google.com/file/d/1GV7e_yIaPgigZVGf_0aJns0Ctbv9ei7G/view?usp=sharing
+# screenshot -- https://drive.google.com/file/d/19Bdm8cqEqDkbn5DHFgf6tWnjCaCFkHfX/view?usp=drive_link
 
 
 ![Screenshot 2024-06-12 at 11 03 06 PM](https://github.com/imbhabani00/KraftShala_Weather-App/assets/111756939/445498ad-6b04-4d55-9ba7-51fc0581f9fd)
