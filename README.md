@@ -26,7 +26,7 @@ http://localhost:5173/
 # screenshot -- https://drive.google.com/file/d/19Bdm8cqEqDkbn5DHFgf6tWnjCaCFkHfX/view?usp=drive_link
 
 
-![Screenshot 2024-06-12 at 11 03 06 PM](https://github.com/imbhabani00/KraftShala_Weather-App/assets/111756939/445498ad-6b04-4d55-9ba7-51fc0581f9fd)
+![Screenshot 2024-06-12 at 11 30 39 PM](https://github.com/imbhabani00/KraftShala_Weather-App/assets/111756939/ea49af7d-529d-4e0a-a9bf-0ae6638f3b91)
 
 
 # CREATED BY : BHABANISHANKAR MISHRA.
